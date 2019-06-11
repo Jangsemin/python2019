@@ -8,6 +8,10 @@
 ## 프로젝트 개요
 부산광역시 공공부문(공공기관, 공사기관, 출자출연기관, 대학 등) 일자리(채용)정보를 받아와서 데이터 분석. 지원자가 채용분야, 근무형태, 근무지역 등의 희망하는 채용정보를 입력하면 그에 적합한 일자리를 추천해주는 프로그램 구현.
 
+Json 파싱 - 채용분야, 근무기간, 근무지역, 지원방법, 접수시작일, 접수마감일
+
+![json_data](https://user-images.githubusercontent.com/37135325/59245595-70419b00-8c54-11e9-9fee-0ebe28964ed5.PNG)
+
 실행화면1 - 전체 채용정보 한번에 파이스크립터에 출력
 
 ![execute1](https://user-images.githubusercontent.com/37135325/59245236-c01f6280-8c52-11e9-9f82-3e6216955b6e.PNG)
@@ -16,7 +20,7 @@
 
 ![execute2](https://user-images.githubusercontent.com/37135325/59245234-bf86cc00-8c52-11e9-9f23-bd2d9ea9bffe.PNG)
 
-실행화면3 - Json파일 데이터 출력을 깔끔하게 보기 위해서 엑셀 파일에 전체 채용정보 저장
+데이터 csv 파일 - Json파일 데이터 출력을 깔끔하게 보기 위해서 엑셀 파일에 전체 채용정보 저장
 
 ![execute3](https://user-images.githubusercontent.com/37135325/59245235-bf86cc00-8c52-11e9-9561-6b798ed0fe22.PNG)
 
