@@ -8,6 +8,12 @@
 ## 프로젝트 개요
 부산광역시 공공부문(공공기관, 공사기관, 출자출연기관, 대학 등) 일자리(채용)정보를 받아와서 데이터 분석. 지원자가 채용분야, 근무형태, 근무지역 등의 희망하는 채용정보를 입력하면 그에 적합한 일자리를 추천해주는 프로그램 구현.
 
+![execute1](https://user-images.githubusercontent.com/37135325/59245236-c01f6280-8c52-11e9-9f82-3e6216955b6e.PNG)
+![execute2](https://user-images.githubusercontent.com/37135325/59245234-bf86cc00-8c52-11e9-9f23-bd2d9ea9bffe.PNG)
+![execute3](https://user-images.githubusercontent.com/37135325/59245235-bf86cc00-8c52-11e9-9561-6b798ed0fe22.PNG)
+
+<iframe width="640" height="360" src="https://youtu.be/UbPN4BWGYvc" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+
 ## 사용한 공공데이터 
 [데이터보기](http://apis.data.go.kr/6260000/BusanJobOpnngInfoService/getJobOpnngInfo?serviceKey=c071zsOCnJh%2BmGSOdQYopb5%2FBiRaS5K7s1bDzse5MSqvc5ML2X1bnCe0Cv24OXlj2tSwPzddXNFcN%2BtWPEAK7w%3D%3D&pageNo=1&numOfRows=20&resultType=json)
 ## 소스
