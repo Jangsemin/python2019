@@ -25,8 +25,7 @@ Json 파싱 - 채용분야, 근무기간, 근무지역, 지원방법, 접수시�
 ![execute3](https://user-images.githubusercontent.com/37135325/59245235-bf86cc00-8c52-11e9-9561-6b798ed0fe22.PNG)
 
 <간단한 구현 동영상>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UbPN4BWGYvc" frameborder="0" gesture = "media" allowfullscreen =""></iframe>
+"https://www.youtube.com/embed/UbPN4BWGYvc"
 
 
 
